@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">UTS20523166</string>
+
+    <string-array name="jenisBayar">
+        <item>Cash On Delivery</item>
+        <item>UII-Pay</item>
+        <item>GoPay</item>
+        <item>Ovo</item>
+    </string-array>
+
+    <string-array name="lokasiPengiriman">
+        <item>Kantin</item>
+        <item>FTI Lantai 1</item>
+        <item>FTI Lantai 2</item>
+        <item>Lab Informatika</item>
+    </string-array>
+
+</resources>
